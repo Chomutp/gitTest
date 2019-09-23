@@ -1,1 +1,1 @@
-# gitTest นี้คือการเรียนรู้การใช้ Git
+# git - basic command cc105
